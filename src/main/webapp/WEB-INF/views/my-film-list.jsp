@@ -19,8 +19,6 @@
             <br>
         </c:forEach>
             <br><br>
-            
-            
             <a href="<c:url value="/my-film-form"/>"> Lien vers controlleur</a>
             
     </body>
